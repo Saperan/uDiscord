@@ -1,4 +1,4 @@
 <h1>uDiscord</h1>
-uDiscord is a gaming service you can use free of charge!
+<a href="https://udiscordmovies.github.io/uDiscord/">Udiscord</a> is a gaming service you can use free of charge!
 <br>
 ps. fuck ads
